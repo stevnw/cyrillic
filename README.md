@@ -6,7 +6,7 @@ Small Cyrillic alphabet guesser game, made in Nim w/ nigui
 
 Reqs:
 
-<pre> nimble install NiGui </pre>
+<pre> nimble install nigui </pre>
 
 Compile:
 
